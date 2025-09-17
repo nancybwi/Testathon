@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New version_text-0071e3 font-bold</name>
+   <tag></tag>
+   <elementGuidId>e830526a-bffc-49a8-a689-269fc3ac3a8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/main/div/div/section/div/div/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2950ba5-e18f-4530-9ac5-d3b98ef95203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[#0071e3] font-bold</value>
+      <webElementGuid>611ee6d5-16f3-401b-bb38-59c1789fadf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Eventify</value>
+      <webElementGuid>976d4639-feb3-4ee0-b4f1-ad69c35c3c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;flex min-h-screen flex-col&quot;]/main[@class=&quot;flex-1 bg-white pt-22&quot;]/div[@class=&quot;min-h-screen w-full bg-white&quot;]/div[1]/section[@class=&quot;relative overflow-hidden&quot;]/div[@class=&quot;mx-auto max-w-6xl px-6&quot;]/div[@class=&quot;flex flex-col items-center gap-16 md:flex-row md:justify-between&quot;]/div[@class=&quot;w-full text-center md:w-1/2 md:text-left&quot;]/h1[@class=&quot;mb-4 text-5xl font-semibold tracking-tight text-gray-900 md:text-6xl lg:text-7xl&quot;]/span[@class=&quot;text-[#0071e3] font-bold&quot;]</value>
+      <webElementGuid>421a3752-da00-4135-a3a2-ef245cadfc05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/main/div/div/section/div/div/div/h1/span</value>
+      <webElementGuid>e504291a-6d17-415c-8269-3e3d98853549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New version'])[1]/following::span[1]</value>
+      <webElementGuid>1a924cdf-227c-4cf2-88b5-695388d1092b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::span[2]</value>
+      <webElementGuid>161642e3-fc51-4093-af80-1c228535a88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Creating Events'])[1]/preceding::span[1]</value>
+      <webElementGuid>4fd5b402-6122-4a7f-b7a2-fd6ab3624013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explore Events'])[1]/preceding::span[1]</value>
+      <webElementGuid>fcdcd016-ffff-45df-aa02-c2d30ecb7cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>a9a73134-f8c6-4421-9ef1-40e3cc686519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Eventify' or . = 'Eventify')]</value>
+      <webElementGuid>31460246-374a-4eb0-8612-b26ea9440474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

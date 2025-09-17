@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TeStAtHoN_max-w-120px truncate text-10_ada476</name>
+   <tag></tag>
+   <elementGuidId>0f110558-2630-4b1c-8a65-019342266820</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-«r5»']/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1d72d3c5-9f7d-4ec3-82e6-cc93ca42d106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>max-w-[120px] truncate text-[10px] text-gray-500 sm:max-w-[180px] sm:text-xs</value>
+      <webElementGuid>059e03f1-0860-4a88-a1e4-a3fcf6881438</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>aaa@gmail.com</value>
+      <webElementGuid>76b40ba6-db49-47c3-be81-74af0b6ea237</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-«r5»&quot;)/div[@class=&quot;flex items-center space-x-2 p-2&quot;]/div[@class=&quot;flex flex-col&quot;]/span[@class=&quot;max-w-[120px] truncate text-[10px] text-gray-500 sm:max-w-[180px] sm:text-xs&quot;]</value>
+      <webElementGuid>e0417826-49ca-4252-92c3-8a2556874133</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-«r5»']/div/div/span[2]</value>
+      <webElementGuid>a718e0c9-f63b-4f57-bb03-c4feb00bca33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TeStAtHoN'])[1]/following::span[1]</value>
+      <webElementGuid>849d28b6-1290-457d-9f8e-877609cce4dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::span[3]</value>
+      <webElementGuid>6c82ff30-06c5-4027-a8f2-fe238ccf635b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::span[1]</value>
+      <webElementGuid>7bff9f0c-9eea-40c4-8fde-93db2f92ab28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[1]</value>
+      <webElementGuid>78d61786-2928-4005-bd98-46e8b48a8420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='aaa@gmail.com']/parent::*</value>
+      <webElementGuid>a34e1b0c-e673-4beb-a0e7-a6930c2dd488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>72ea30ab-a8de-43c8-8c1b-c5b66533cc41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'aaa@gmail.com' or . = 'aaa@gmail.com')]</value>
+      <webElementGuid>c2c832ec-7463-4959-b304-bd35086252a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
